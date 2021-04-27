@@ -96,3 +96,17 @@ Start tortoisehg.
 ```
 
 I got tortoisehg working on multiple different Ubuntu 20.04 installations using this recipe.
+
+
+------------------------
+
+Also can help install or reinstall xinerama
+
+```
+sudo apt install libxcb-xinerama0
+
+sudo apt-get install --reinstall libxcb-xinerama0
+```
+
+
+
